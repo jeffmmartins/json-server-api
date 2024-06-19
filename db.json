@@ -1,0 +1,18 @@
+{
+    "usuario": [{
+        "id":1,
+        "name": "Jefferson Martins Mendes",
+        "age": 35
+    },
+    {
+        "id":2,
+        "name": "Vera lucia",
+        "age": 60
+    },
+    {
+        "id":3,
+        "name": "Francisco de Assis",
+        "age": 65
+    }
+]
+}
